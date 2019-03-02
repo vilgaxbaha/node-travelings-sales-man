@@ -1,4 +1,5 @@
-# node-travelings-sales-manInstallation
+# node-travelings-sales-man
+Installation
 The openrouteservice client requires nodejs and a valid Api-Key to access the openrouteservice API. Also make sure that git is installed.
 
 git
